@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+
+class complex
+{
+ int real;
+ int imag;
+ 
+ public:
+
+ friend complex operator+(cont complex
+int main()
+{
+ return 0;
+}
